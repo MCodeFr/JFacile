@@ -22,3 +22,12 @@ console.log(JFacile.JColorRandom());
 ```
 
 Create a anti crash process with require("jfacile") !
+
+Links :
+
+*Discord :*
+https://discord.gg/HjhP5wjWjb
+*Npm :*
+https://www.npmjs.com/package/jfacile
+*GitHub :*
+https://github.com/Eragon941/JFacile
