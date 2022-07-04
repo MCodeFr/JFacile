@@ -1,0 +1,14 @@
+{
+  "name": "jfacile",
+  "version": "0.1.3",
+  "description": "Code in JS is easy with JFacile",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eragon941",
+  "license": "ISC",
+  "files": [
+    "lib/**/*"
+  ]
+}
